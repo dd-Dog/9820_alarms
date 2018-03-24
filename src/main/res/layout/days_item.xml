@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/day"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="2px"
+        android:text="@string/confirm"
+        android:textColor="@color/list_textcolor_selector"
+        android:textSize="@dimen/textsize"
+        />
+
+    <CheckBox
+        android:id="@+id/onoff"
+        android:checked="false"
+        android:layout_alignParentRight="true"
+        android:button="@drawable/cb_style_rec"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>

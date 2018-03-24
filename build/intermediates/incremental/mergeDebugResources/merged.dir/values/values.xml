@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+        <item>"已将闹钟设置为从现在起不到 1 分钟后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="HOURS">%2$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g><ns1:g id="HOURS">%2$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="HOURS">%2$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g><ns1:g id="HOURS">%2$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+    </string-array>
+    <array name="alarm_set_options">
+        <item>1.Time</item>
+        <item>2.Status</item>
+        <item>3.Mode</item>
+        <item>4.Label</item>
+    </array>
+    <array name="alarmoptions">
+        <item>1.Edit</item>
+        <item>2.New</item>
+        <item>3.Delete</item>
+        <!--<item>4.Settings</item>-->
+    </array>
+    <string-array name="auto_silence_entries">
+        <item>"5 分钟"</item>
+        <item>"10 分钟"</item>
+        <item>"15 分钟"</item>
+        <item>"20 分钟"</item>
+        <item>"25 分钟"</item>
+        <item>"30 分钟"</item>
+        <item>"永不"</item>
+    </string-array>
+    <string-array name="auto_silence_values" translatable="false">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>-1</item> <!-- Off -->
+    </string-array>
+    <array name="days_in_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </array>
+    <array name="dismiss_descriptions">
+        <item>@string/alarm_alert_dismiss_text</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="dismiss_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="dismiss_drawables">
+        <item>@drawable/ic_alarm_alert_dismiss</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="repeat_mode">
+        <item>Once</item>
+        <item>Work day</item>
+        <item>Everyday</item>
+        <item>Custom</item>
+    </array>
+    <array name="setting_items">
+        <item>1.Alarm duration</item>
+    </array>
+    <array name="snooze_dismiss_descriptions">
+        <item>@string/alarm_alert_dismiss_text</item>
+        <item>@null</item>
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>@null</item>
+    </array>
+    <array name="snooze_dismiss_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@null</item>
+        <item>@string/description_direction_left</item>
+        <item>@null</item>
+    </array>
+    <array name="snooze_dismiss_drawables">
+        <item>@drawable/ic_alarm_alert_dismiss</item>
+        <item>@null</item>
+        <item>@drawable/ic_alarm_alert_snooze</item>
+        <item>@null</item>
+    </array>
+    <string-array name="volume_button_setting_entries">
+        <item>"不进行任何操作"</item>
+        <item>"暂停"</item>
+        <item>"关闭"</item>    
+    </string-array>
+    <string-array name="volume_button_setting_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <color name="alarm_whiteish">#0cffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="blackish">#1c1e20</color>
+    <color name="blackish_selected">#0cffffff</color>
+    <color name="blackish_trans">#cc1c1e20</color>
+    <color name="clock_gray">#80ffffff</color>
+    <color name="clock_white">#ffffff</color>
+    <color name="main_button_normal">#606060</color>
+    <color name="main_button_red_normal">#ff4444</color>
+    <color name="main_button_red_selected">#c0ff4444</color>
+    <color name="main_button_selected">#909090</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_white">#66ffffff</color>
+    <color name="white">#ffffffff</color>
+    <declare-styleable name="GlowPadView"><attr name="android:gravity"/><attr format="reference" name="targetDrawables"/><attr format="reference" name="targetDescriptions"/><attr format="reference" name="directionDescriptions"/><attr format="reference" name="handleDrawable"/><attr format="reference" name="outerRingDrawable"/><attr format="reference" name="pointDrawable"/><attr format="dimension" name="innerRadius"/><attr format="dimension" name="outerRadius"/><attr format="dimension" name="glowRadius"/><attr format="integer" name="vibrationDuration"/><attr format="dimension" name="snapMargin"/><attr format="integer" name="feedbackCount"/><attr format="boolean" name="alwaysTrackFinger"/></declare-styleable>
+    <declare-styleable name="TextTime"><attr format="string" name="format12Hour"/><attr format="string" name="format24Hour"/></declare-styleable>
+    <dimen name="actionbar_title_font_size">22sp</dimen>
+    <dimen name="alarm_label_size">14sp</dimen>
+    <dimen name="alarm_time_font_size">48sp</dimen>
+    <dimen name="body_font_size">18sp</dimen>
+    <dimen name="bottom_text_size">16sp</dimen>
+    <dimen name="button_font_size">24sp</dimen>
+    <dimen name="button_footer_height">88dip</dimen>
+    <dimen name="collapse_expand_height">48dp</dimen>
+    <dimen name="dialog_button_font_size">14sp</dimen>
+    <dimen name="footer_button_layout_margin">16dp</dimen>
+    <dimen name="footer_button_size">56dp</dimen>
+    <dimen name="function_bar_height">16px</dimen>
+    <dimen name="function_bar_textsize">12px</dimen>
+    <dimen name="header_font_size">24sp</dimen>
+    <dimen name="item_height">16px</dimen>
+    <dimen name="linespacing">0px</dimen>
+    <dimen name="medium_font_size">60dp</dimen>
+    <item format="float" name="spacingMul" type="dimen">1.0</item>
+    <dimen name="textsize">16sp</dimen>
+    <plurals name="snooze_duration">
+        <item quantity="one">"1 分钟"</item>
+        <item quantity="other">"<ns1:g id="NUMBER">%d</ns1:g> 分钟"</item>
+    </plurals>
+    <string name="action_clock_alarm">Alarm Clock</string>
+    <string name="add_alarm">添加闹钟</string>
+    <string name="alarm_alert_dismiss_text">"取消"</string>
+    <string name="alarm_alert_predismiss_title">"预定的闹钟"</string>
+    <string name="alarm_alert_snooze_text">"稍后再响"</string>
+    <string name="alarm_alert_snooze_until">"将勿扰时段设置到 <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string name="alarm_missed_text">"<ns1:g id="ALARM_TIME">%s</ns1:g> - <ns1:g id="ALARM_LABEL">%s</ns1:g>"</string>
+    <string name="alarm_missed_title">"错过的闹钟"</string>
+    <string name="alarm_repeat">重复</string>
+    <string name="alarm_settings">闹钟设置</string>
+    <string name="alarm_time_12_hours_format" translatable="false">h:mm <b><font face="sans-serif-condensed" size="14">a</font></b></string>
+    <string name="alarm_vibrate">振动</string>
+    <string name="app_name">HS-闹钟</string>
+    <string name="auto_silence_never">"永不"</string>
+    <string name="auto_silence_summary">"<ns1:g id="MINUTES">%d</ns1:g> 分钟"</string>
+    <string name="auto_silence_title">闹铃时长</string>
+    <string name="back">Return</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_menu">更多选项</string>
+    <string name="button_ok">确定</string>
+    <string name="clock_24_hours_format" translatable="false">kk:mm</string>
+    <string name="close">Close</string>
+    <string name="collapse_alarm">折叠闹钟</string>
+    <string name="confirm">Confirm</string>
+    <string name="custom">Custom</string>
+    <string name="day">1天</string>
+    <string name="day_concat">", "</string>
+    <string name="days"><ns1:g id="DAYS">%s</ns1:g> 天</string>
+    <string name="default_label">Alarm</string>
+    <string name="delete_alarm">删除</string>
+    <string name="description_direction_left">"向左滑动即可设置勿扰时段"</string>
+    <string name="description_direction_right">"向右滑动即可关闭"</string>
+    <string name="eveday">Everyday</string>
+    <string name="every_day">每天</string>
+    <string name="expand_alarm">展开闹钟</string>
+    <string name="h">m</string>
+    <string name="hour">"1 小时"</string>
+    <string name="hours">"<ns1:g id="HOURS">%s</ns1:g> 小时"</string>
+    <string name="label">标签</string>
+    <string name="m">h</string>
+    <string name="main_clock_12_hours_format" translatable="false">h:mm <b><font face="sans-serif-condensed" size="16">a</font></b></string>
+    <string name="menu_item_help">帮助</string>
+    <string name="menu_item_settings">设置</string>
+    <string name="minute">"1 分钟"</string>
+    <string name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> 分钟"</string>
+    <string name="never">永不</string>
+    <string name="no_alarms">没有闹钟</string>
+    <string name="once">Once</string>
+    <string name="open">Open</string>
+    <string name="options">Options</string>
+    <string name="repeat_mode">Mode</string>
+    <string name="same_alarm_exit">同一时间闹钟已存在</string>
+    <string name="select">Select</string>
+    <string name="set_alarm_time">Alarm Time</string>
+    <string name="settings">设置</string>
+    <string name="silent_alarm_summary">静音</string>
+    <string name="snooze">Snooze</string>
+    <string name="snooze_duration_title">"暂停时长"</string>
+    <string name="snooze_picker_label">"分钟"</string>
+    <string name="volume_button_setting_title">"音量按钮"</string>
+    <string name="workday">Work day</string>
+    <string name="zero"> 0 </string>
+    <style name="AlarmAlertFullScreenTheme" parent="android:Theme.Holo.Wallpaper.NoTitleBar">
+        <item name="android:windowTitleStyle">@style/AlarmAlertFullScreenWindowTitle</item>
+    </style>
+    <style name="AlarmAlertFullScreenWindowTitle">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+    <style name="AppTheme" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+    <style name="DeskClock" parent="android:Theme.Holo">
+  		<item name="android:windowBackground">@color/white</item>
+  		<item name="android:selectableItemBackground">@drawable/item_background</item>
+    </style>
+    <style name="EditTextStyle">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">@dimen/textsize</item>
+        <item name="android:background">@null</item>
+        <item name="android:inputType">number</item>
+    </style>
+    <style name="SettingsTheme" parent="DeskClock">
+        <item name="android:actionBarStyle">@style/SettingsTheme.ActionBar</item>
+    </style>
+    <style name="SettingsTheme.ActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:titleTextStyle">@style/SettingsTheme.TextAppearance.ActionBar.Title</item>
+        <item name="android:displayOptions">showTitle</item>
+    </style>
+    <style name="SettingsTheme.TextAppearance.ActionBar.Title" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textSize">@dimen/actionbar_title_font_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="TextStyle">
+        <item name="android:textColor">@color/list_textcolor_selector</item>
+        <item name="android:textSize">@dimen/textsize</item>
+        <item name="android:background">@drawable/list_bg_selector</item>
+        <item name="android:paddingLeft">2px</item>
+    </style>
+    <style name="TextStyleTwo">
+        <item name="android:textColor">@color/list_textcolor_selector</item>
+        <item name="android:textSize">@dimen/textsize</item>
+        <item name="android:background">@drawable/list_bg_selector</item>
+    </style>
+    <style name="body">
+        <item name="android:textSize">@dimen/body_font_size</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="button">
+        <item name="android:textSize">@dimen/button_font_size</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="dialog_button">
+        <item name="android:textSize">@dimen/dialog_button_font_size</item>
+    </style>
+    <style name="header">
+        <item name="android:textSize">@dimen/textsize</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="medium_light">
+        <item name="android:textSize">@dimen/medium_font_size</item>
+    </style>
+</resources>

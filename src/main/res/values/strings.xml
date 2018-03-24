@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m">h</string>
+    <string name="h">m</string>
+    <string name="confirm">Confirm</string>
+    <string name="back">Return</string>
+    <string name="options">Options</string>
+
+    <array name="repeat_mode">
+        <item>Once</item>
+        <item>Work day</item>
+        <item>Everyday</item>
+        <item>Custom</item>
+    </array>
+
+    <string name="once">Once</string>
+    <string name="workday">Work day</string>
+    <string name="eveday">Everyday</string>
+    <string name="custom">Custom</string>
+
+    <string name="action_clock_alarm">Alarm Clock</string>
+    <array name="alarmoptions">
+        <item>1.Edit</item>
+        <item>2.New</item>
+        <item>3.Delete</item>
+        <!--<item>4.Settings</item>-->
+    </array>
+
+    <array name="alarm_set_options">
+        <item>1.Time</item>
+        <item>2.Status</item>
+        <item>3.Mode</item>
+        <item>4.Label</item>
+    </array>
+    <array name="days_in_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </array>
+
+    <array name="setting_items">
+        <item>1.Alarm duration</item>
+    </array>
+
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+
+    <string name="set_alarm_time">Alarm Time</string>
+    <string name="zero"> 0 </string>
+    <string name="app_name">HS-闹钟</string>E
+    <string name="button_menu">更多选项</string>
+    <string name="menu_item_help">帮助</string>
+    <string name="menu_item_settings">设置</string>
+    
+     <string name="button_ok">确定</string>
+     <string name="button_cancel">取消</string>
+
+    <!-- alarms -->
+    <string name="no_alarms">没有闹钟</string>
+    <string name="add_alarm">添加闹钟</string>
+    <string name="same_alarm_exit">同一时间闹钟已存在</string>
+    <string name="never">永不</string>
+    <string name="every_day">每天</string>
+    <string name="day_concat">", "</string>
+    <string name="default_label">Alarm</string>
+    <string name="label">标签</string>
+    <string name="alarm_repeat">重复</string>
+    <string name="alarm_vibrate">振动</string>
+    <string name="delete_alarm">删除</string>
+    <string name="collapse_alarm">折叠闹钟</string>
+    <string name="expand_alarm">展开闹钟</string>
+    <string name="silent_alarm_summary">静音</string>
+    <string name="day">1天</string>
+    <string name="days"><xliff:g id="DAYS">%s</xliff:g> 天</string>
+    <string name="hour" >"1 小时"</string>
+    <string name="hours" >"<xliff:g id="HOURS">%s</xliff:g> 小时"</string>
+    <string name="minute" >"1 分钟"</string>
+    <string name="minutes" >"<xliff:g id="MINUTES">%s</xliff:g> 分钟"</string>
+
+    <string-array name="alarm_set">
+        <item>"已将闹钟设置为从现在起不到 1 分钟后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <xliff:g id="DAYS">%1$s</xliff:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <xliff:g id="HOURS">%2$s</xliff:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <xliff:g id="DAYS">%1$s</xliff:g><xliff:g id="HOURS">%2$s</xliff:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <xliff:g id="MINUTES">%3$s</xliff:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <xliff:g id="DAYS">%1$s</xliff:g><xliff:g id="MINUTES">%3$s</xliff:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <xliff:g id="HOURS">%2$s</xliff:g><xliff:g id="MINUTES">%3$s</xliff:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <xliff:g id="DAYS">%1$s</xliff:g><xliff:g id="HOURS">%2$s</xliff:g><xliff:g id="MINUTES">%3$s</xliff:g>后提醒。"</item>
+    </string-array>
+
+    <string name="clock_24_hours_format" translatable="false">kk&#58;mm</string>
+    <string name="alarm_time_12_hours_format" translatable="false">h&#58;mm&#8202;<b><font face="sans-serif-condensed" size="14">a</font></b></string>
+    <string name="main_clock_12_hours_format" translatable="false">h&#58;mm&#8202;<b><font size="16" face="sans-serif-condensed">a</font></b></string>
+    <string name="settings">设置</string>
+    <string name="alarm_settings">闹钟设置</string>
+    <string name="auto_silence_title">闹铃时长</string>
+    <string name="auto_silence_summary">"<xliff:g id="MINUTES">%d</xliff:g> 分钟"</string>
+    <string name="auto_silence_never">"永不"</string>
+
+    <string-array name="auto_silence_entries">
+        <item>"5 分钟"</item>
+        <item>"10 分钟"</item>
+        <item>"15 分钟"</item>
+        <item>"20 分钟"</item>
+        <item>"25 分钟"</item>
+        <item>"30 分钟"</item>
+        <item>"永不"</item>
+    </string-array>
+    <string-array name="auto_silence_values" translatable="false">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>-1</item> <!-- Off -->
+    </string-array>
+
+    <string name="snooze_duration_title">"暂停时长"</string>
+    <string name="volume_button_setting_title">"音量按钮"</string>
+    <string name="snooze_picker_label">"分钟"</string>
+    <plurals name="snooze_duration">
+        <item quantity="one">"1 分钟"</item>
+        <item quantity="other">"<xliff:g id="NUMBER">%d</xliff:g> 分钟"</item>
+    </plurals>
+
+    <string-array name="volume_button_setting_entries">
+        <item>"不进行任何操作"</item>
+        <item>"暂停"</item>
+        <item>"关闭"</item>    
+    </string-array>
+    <string-array name="volume_button_setting_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="alarm_alert_predismiss_title">"预定的闹钟"</string>
+    <string name="alarm_alert_snooze_until">"将勿扰时段设置到 <xliff:g id="TIME">%s</xliff:g>"</string>
+    <string name="alarm_missed_title">"错过的闹钟"</string>
+     <string name="alarm_missed_text">"<xliff:g id="ALARM_TIME">%s</xliff:g> - <xliff:g id="ALARM_LABEL">%s</xliff:g>"</string>
+    
+    <string name="alarm_alert_dismiss_text" >"取消"</string>
+    <string name="alarm_alert_snooze_text">"稍后再响"</string>
+    <string name="description_direction_right">"向右滑动即可关闭"</string>
+    <string name="description_direction_left">"向左滑动即可设置勿扰时段"</string>
+    <string name="repeat_mode">Mode</string>
+    <string name="select">Select</string>
+    <string name="snooze">Snooze</string>
+
+</resources>

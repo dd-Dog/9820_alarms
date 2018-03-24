@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2"><dataSet config="main$Generated" generated="true"><source path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res"/><source path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\build\generated\res\rs\debug"/><source path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res"><file name="list_textcolor_selector" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\color\list_textcolor_selector.xml" qualifiers="" type="color"/><file name="alarm_background_normal" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\alarm_background_normal.xml" qualifiers="" type="drawable"/><file name="black" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\black.xml" qualifiers="" type="drawable"/><file name="footer_bg" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\footer_bg.xml" qualifiers="" type="drawable"/><file name="ic_alarm_alert_dismiss" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\ic_alarm_alert_dismiss.xml" qualifiers="" type="drawable"/><file name="ic_alarm_alert_outerring" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\ic_alarm_alert_outerring.xml" qualifiers="" type="drawable"/><file name="ic_alarm_alert_snooze" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\ic_alarm_alert_snooze.xml" qualifiers="" type="drawable"/><file name="ic_alarm_alert_touch_handle" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\ic_alarm_alert_touch_handle.xml" qualifiers="" type="drawable"/><file name="ic_delete" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\ic_delete.xml" qualifiers="" type="drawable"/><file name="item_background" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\item_background.xml" qualifiers="" type="drawable"/><file name="list_bg_selector" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\list_bg_selector.xml" qualifiers="" type="drawable"/><file name="main_button_normal" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\main_button_normal.xml" qualifiers="" type="drawable"/><file name="main_button_red" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\main_button_red.xml" qualifiers="" type="drawable"/><file name="tab_alarm" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\tab_alarm.xml" qualifiers="" type="drawable"/><file name="tab_clock" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\tab_clock.xml" qualifiers="" type="drawable"/><file name="tab_stopwatch" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\tab_stopwatch.xml" qualifiers="" type="drawable"/><file name="tab_timer" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\tab_timer.xml" qualifiers="" type="drawable"/><file name="toggle_underline" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\toggle_underline.xml" qualifiers="" type="drawable"/><file name="white" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable\white.xml" qualifiers="" type="drawable"/><file name="cb_style_rec" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\cb_style_rec.xml" qualifiers="hdpi-v4" type="drawable"/><file name="check_default" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\check_default.bmp" qualifiers="hdpi-v4" type="drawable"/><file name="check_pressed" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\check_pressed.bmp" qualifiers="hdpi-v4" type="drawable"/><file name="ic_add" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_add.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_delete_normal" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_delete_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_delete_pressed" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_delete_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_expand_down" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_expand_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_globe" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_globe.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_lockscreen_alarm" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_lockscreen_alarm.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_lockscreen_glowdot" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_lockscreen_glowdot.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_lockscreen_handle_pressed" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_lockscreen_handle_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_lockscreen_snooze_activated" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_lockscreen_snooze_activated.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_lockscreen_snooze_normal" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_lockscreen_snooze_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_lockscreen_wakeup_activated" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_lockscreen_wakeup_activated.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_lockscreen_wakeup_normal" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_lockscreen_wakeup_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_menu_revert" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_menu_revert.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_noalarms" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_noalarms.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_ringtone" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_ringtone.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_tab_alarm_activated" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_tab_alarm_activated.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_tab_alarm_normal" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_tab_alarm_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_tab_clock_activated" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_tab_clock_activated.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_tab_clock_normal" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_tab_clock_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_tab_stopwatch_activated" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_tab_stopwatch_activated.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_tab_stopwatch_normal" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_tab_stopwatch_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_tab_timer_activated" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_tab_timer_activated.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_tab_timer_normal" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\ic_tab_timer_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="panel_undo" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\panel_undo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="stat_notify_alarm" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\stat_notify_alarm.png" qualifiers="hdpi-v4" type="drawable"/><file name="toggle_underline_activated" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\toggle_underline_activated.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="toggle_underline_normal" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-hdpi\toggle_underline_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_alarm_time" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\activity_alarm_time.xml" qualifiers="" type="layout"/><file name="activity_main" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="alarm_alert" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\alarm_alert.xml" qualifiers="" type="layout"/><file name="alarm_fragment" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\alarm_fragment.xml" qualifiers="" type="layout"/><file name="alarm_time_item2" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\alarm_time_item2.xml" qualifiers="" type="layout"/><file name="days_item" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\days_item.xml" qualifiers="" type="layout"/><file name="day_button" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\day_button.xml" qualifiers="" type="layout"/><file name="desk_clock" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\desk_clock.xml" qualifiers="" type="layout"/><file name="fragment_larmlist_options" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\fragment_larmlist_options.xml" qualifiers="" type="layout"/><file name="function_bar" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\function_bar.xml" qualifiers="" type="layout"/><file name="item" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\item.xml" qualifiers="" type="layout"/><file name="label_dialog" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\label_dialog.xml" qualifiers="" type="layout"/><file name="set_item" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\set_item.xml" qualifiers="" type="layout"/><file name="set_item_time" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\set_item_time.xml" qualifiers="" type="layout"/><file name="snooze_length_picker" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\snooze_length_picker.xml" qualifiers="" type="layout"/><file name="title" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\title.xml" qualifiers="" type="layout"/><file name="desk_clock_menu" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\menu\desk_clock_menu.xml" qualifiers="" type="menu"/><file path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\values\array.xml" qualifiers=""><array name="snooze_dismiss_drawables">
+        <item>@drawable/ic_alarm_alert_dismiss</item>
+        <item>@null</item>
+        <item>@drawable/ic_alarm_alert_snooze</item>
+        <item>@null</item>
+    </array><array name="snooze_dismiss_descriptions">
+        <item>@string/alarm_alert_dismiss_text</item>
+        <item>@null</item>
+        <item>@string/alarm_alert_snooze_text</item>
+        <item>@null</item>
+    </array><array name="snooze_dismiss_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@null</item>
+        <item>@string/description_direction_left</item>
+        <item>@null</item>
+    </array><array name="dismiss_drawables">
+        <item>@drawable/ic_alarm_alert_dismiss</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array><array name="dismiss_descriptions">
+        <item>@string/alarm_alert_dismiss_text</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array><array name="dismiss_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array></file><file path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="TextTime">
+        <attr format="string" name="format12Hour"/>
+        <attr format="string" name="format24Hour"/>
+   </declare-styleable><declare-styleable name="GlowPadView">
+        <attr name="android:gravity"/>
+
+        
+        <attr format="reference" name="targetDrawables"/>
+
+        
+        <attr format="reference" name="targetDescriptions"/>
+
+        
+        <attr format="reference" name="directionDescriptions"/>
+
+        
+        <attr format="reference" name="handleDrawable"/>
+
+        
+        <attr format="reference" name="outerRingDrawable"/>
+
+        
+        <attr format="reference" name="pointDrawable"/>
+
+        
+        <attr format="dimension" name="innerRadius"/>
+
+        
+        <attr format="dimension" name="outerRadius"/>
+
+        
+        
+
+        
+        <attr format="dimension" name="glowRadius"/>
+
+        
+        <attr format="integer" name="vibrationDuration"/>
+
+        
+        <attr format="dimension" name="snapMargin"/>
+
+        
+        <attr format="integer" name="feedbackCount"/>
+
+        
+        <attr format="boolean" name="alwaysTrackFinger"/>
+    </declare-styleable></file><file path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\values\colors.xml" qualifiers=""><color name="blackish">#1c1e20</color><color name="blackish_trans">#cc1c1e20</color><color name="blackish_selected">#0cffffff</color><color name="alarm_whiteish">#0cffffff</color><color name="transparent">#00000000</color><color name="transparent_white">#66ffffff</color><color name="main_button_normal">#606060</color><color name="main_button_selected">#909090</color><color name="main_button_red_normal">#ff4444</color><color name="main_button_red_selected">#c0ff4444</color><color name="clock_white">#ffffff</color><color name="clock_gray">#80ffffff</color><color name="white">#ffffffff</color><color name="black">#ff000000</color></file><file path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\values\dimens.xml" qualifiers=""><dimen name="medium_font_size">60dp</dimen><dimen name="body_font_size">18sp</dimen><dimen name="button_font_size">24sp</dimen><dimen name="dialog_button_font_size">14sp</dimen><dimen name="footer_button_size">56dp</dimen><dimen name="footer_button_layout_margin">16dp</dimen><dimen name="alarm_time_font_size">48sp</dimen><dimen name="alarm_label_size">14sp</dimen><dimen name="collapse_expand_height">48dp</dimen><dimen name="button_footer_height">88dip</dimen><dimen name="textsize">16sp</dimen><dimen name="function_bar_height">16px</dimen><dimen name="function_bar_textsize">12px</dimen><dimen name="item_height">16px</dimen><dimen name="linespacing">0px</dimen><item format="float" name="spacingMul" type="dimen">1.0</item><dimen name="actionbar_title_font_size">22sp</dimen><dimen name="header_font_size">24sp</dimen><dimen name="bottom_text_size">16sp</dimen></file><file path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\values\strings.xml" qualifiers=""><string name="m">h</string><string name="h">m</string><string name="confirm">Confirm</string><string name="back">Return</string><string name="options">Options</string><array name="repeat_mode">
+        <item>Once</item>
+        <item>Work day</item>
+        <item>Everyday</item>
+        <item>Custom</item>
+    </array><string name="once">Once</string><string name="workday">Work day</string><string name="eveday">Everyday</string><string name="custom">Custom</string><array name="alarmoptions">
+        <item>1.Edit</item>
+        <item>2.New</item>
+        <item>3.Delete</item>
+        
+    </array><array name="alarm_set_options">
+        <item>1.Time</item>
+        <item>2.Status</item>
+        <item>3.Mode</item>
+        <item>4.Label</item>
+    </array><array name="days_in_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </array><array name="setting_items">
+        <item>1.Alarm duration</item>
+    </array><string name="close">Close</string><string name="open">Open</string><string name="set_alarm_time">Alarm Time</string><string name="zero"> 0 </string><string name="app_name">HS-闹钟</string><string name="button_menu">更多选项</string><string name="menu_item_help">帮助</string><string name="menu_item_settings">设置</string><string name="button_ok">确定</string><string name="button_cancel">取消</string><string name="no_alarms">没有闹钟</string><string name="add_alarm">添加闹钟</string><string name="same_alarm_exit">同一时间闹钟已存在</string><string name="never">永不</string><string name="every_day">每天</string><string name="day_concat">", "</string><string name="default_label">Alarm</string><string name="label">标签</string><string name="alarm_repeat">重复</string><string name="alarm_vibrate">振动</string><string name="delete_alarm">删除</string><string name="collapse_alarm">折叠闹钟</string><string name="expand_alarm">展开闹钟</string><string name="silent_alarm_summary">静音</string><string name="day">1天</string><string name="days"><ns1:g id="DAYS">%s</ns1:g> 天</string><string name="hour">"1 小时"</string><string name="hours">"<ns1:g id="HOURS">%s</ns1:g> 小时"</string><string name="minute">"1 分钟"</string><string name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> 分钟"</string><string-array name="alarm_set">
+        <item>"已将闹钟设置为从现在起不到 1 分钟后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="HOURS">%2$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g><ns1:g id="HOURS">%2$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="HOURS">%2$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g><ns1:g id="HOURS">%2$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+    </string-array><string name="clock_24_hours_format" translatable="false">kk:mm</string><string name="alarm_time_12_hours_format" translatable="false">h:mm <b><font face="sans-serif-condensed" size="14">a</font></b></string><string name="main_clock_12_hours_format" translatable="false">h:mm <b><font face="sans-serif-condensed" size="16">a</font></b></string><string name="settings">设置</string><string name="alarm_settings">闹钟设置</string><string name="auto_silence_title">闹铃时长</string><string name="auto_silence_summary">"<ns1:g id="MINUTES">%d</ns1:g> 分钟"</string><string name="auto_silence_never">"永不"</string><string-array name="auto_silence_entries">
+        <item>"5 分钟"</item>
+        <item>"10 分钟"</item>
+        <item>"15 分钟"</item>
+        <item>"20 分钟"</item>
+        <item>"25 分钟"</item>
+        <item>"30 分钟"</item>
+        <item>"永不"</item>
+    </string-array><string-array name="auto_silence_values" translatable="false">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>-1</item> 
+    </string-array><string name="snooze_duration_title">"暂停时长"</string><string name="volume_button_setting_title">"音量按钮"</string><string name="snooze_picker_label">"分钟"</string><plurals name="snooze_duration">
+        <item quantity="one">"1 分钟"</item>
+        <item quantity="other">"<ns1:g id="NUMBER">%d</ns1:g> 分钟"</item>
+    </plurals><string-array name="volume_button_setting_entries">
+        <item>"不进行任何操作"</item>
+        <item>"暂停"</item>
+        <item>"关闭"</item>    
+    </string-array><string-array name="volume_button_setting_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array><string name="alarm_alert_predismiss_title">"预定的闹钟"</string><string name="alarm_alert_snooze_until">"将勿扰时段设置到 <ns1:g id="TIME">%s</ns1:g>"</string><string name="alarm_missed_title">"错过的闹钟"</string><string name="alarm_missed_text">"<ns1:g id="ALARM_TIME">%s</ns1:g> - <ns1:g id="ALARM_LABEL">%s</ns1:g>"</string><string name="alarm_alert_dismiss_text">"取消"</string><string name="alarm_alert_snooze_text">"稍后再响"</string><string name="description_direction_right">"向右滑动即可关闭"</string><string name="description_direction_left">"向左滑动即可设置勿扰时段"</string><string name="repeat_mode">Mode</string><string name="select">Select</string><string name="action_clock_alarm">Alarm Clock</string><string name="snooze">Snooze</string></file><file path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\values\styles.xml" qualifiers=""><style name="DeskClock" parent="android:Theme.Holo">
+  		<item name="android:windowBackground">@color/white</item>
+  		<item name="android:selectableItemBackground">@drawable/item_background</item>
+    </style><style name="AppTheme" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style><style name="SettingsTheme" parent="DeskClock">
+        <item name="android:actionBarStyle">@style/SettingsTheme.ActionBar</item>
+    </style><style name="SettingsTheme.ActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:titleTextStyle">@style/SettingsTheme.TextAppearance.ActionBar.Title</item>
+        <item name="android:displayOptions">showTitle</item>
+    </style><style name="SettingsTheme.TextAppearance.ActionBar.Title" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textSize">@dimen/actionbar_title_font_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style><style name="AlarmAlertFullScreenWindowTitle">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style><style name="AlarmAlertFullScreenTheme" parent="android:Theme.Holo.Wallpaper.NoTitleBar">
+        <item name="android:windowTitleStyle">@style/AlarmAlertFullScreenWindowTitle</item>
+    </style><style name="button">
+        <item name="android:textSize">@dimen/button_font_size</item>
+        <item name="android:textAllCaps">true</item>
+    </style><style name="dialog_button">
+        <item name="android:textSize">@dimen/dialog_button_font_size</item>
+    </style><style name="medium_light">
+        <item name="android:textSize">@dimen/medium_font_size</item>
+    </style><style name="body">
+        <item name="android:textSize">@dimen/body_font_size</item>
+        <item name="android:textAllCaps">true</item>
+    </style><style name="header">
+        <item name="android:textSize">@dimen/textsize</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="TextStyle">
+        <item name="android:textColor">@color/list_textcolor_selector</item>
+        <item name="android:textSize">@dimen/textsize</item>
+        <item name="android:background">@drawable/list_bg_selector</item>
+        <item name="android:paddingLeft">2px</item>
+    </style><style name="TextStyleTwo">
+        <item name="android:textColor">@color/list_textcolor_selector</item>
+        <item name="android:textSize">@dimen/textsize</item>
+        <item name="android:background">@drawable/list_bg_selector</item>
+    </style><style name="EditTextStyle">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">@dimen/textsize</item>
+        <item name="android:background">@null</item>
+        <item name="android:inputType">number</item>
+    </style></file><file path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\values-zh-rCN\strings.xml" qualifiers="zh-rCN"><string name="m">分</string><string name="h">时</string><string name="confirm">确定</string><string name="back">返回</string><string name="options">选项</string><string name="set_alarm_time">闹钟时间设置</string><array name="alarmoptions">
+        <item>1.编辑</item>
+        <item>2.新建</item>
+        <item>3.删除</item>
+        
+    </array><array name="repeat_mode">
+        <item>不重复</item>
+        <item>工作日</item>
+        <item>每天</item>
+        <item>自定义</item>
+    </array><array name="days_in_week">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </array><array name="setting_items">
+        <item>1.闹铃时长</item>
+    </array><string name="once">不重复</string><string name="workday">工作日</string><string name="eveday">每天</string><string name="custom">自定义</string><array name="alarm_set_options">
+        <item>1.时间</item>
+        <item>2.状态</item>
+        <item>3.重复方式</item>
+        <item>4.闹钟名</item>
+    </array><string name="close">关闭</string><string name="open">打开</string><string name="app_name">闹钟</string><string name="button_menu">更多选项</string><string name="menu_item_help">帮助</string><string name="menu_item_settings">设置</string><string name="button_ok">确定</string><string name="button_cancel">取消</string><string name="no_alarms">没有闹钟</string><string name="add_alarm">添加闹钟</string><string name="same_alarm_exit">同一时间闹钟已存在</string><string name="never">永不</string><string name="every_day">每天</string><string name="day_concat">", "</string><string name="default_label">闹钟</string><string name="label">标签</string><string name="alarm_repeat">重复</string><string name="alarm_vibrate">振动</string><string name="delete_alarm">删除</string><string name="collapse_alarm">折叠闹钟</string><string name="expand_alarm">展开闹钟</string><string name="silent_alarm_summary">静音</string><string name="day">1天</string><string name="days"><ns1:g id="DAYS">%s</ns1:g> 天</string><string name="hour">"1 小时"</string><string name="hours">"<ns1:g id="HOURS">%s</ns1:g> 小时"</string><string name="minute">"1 分钟"</string><string name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> 分钟"</string><string-array name="alarm_set">
+        <item>"已将闹钟设置为从现在起不到 1 分钟后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="HOURS">%2$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g><ns1:g id="HOURS">%2$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="HOURS">%2$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+        <item>"已将闹钟设置为从现在起 <ns1:g id="DAYS">%1$s</ns1:g><ns1:g id="HOURS">%2$s</ns1:g><ns1:g id="MINUTES">%3$s</ns1:g>后提醒。"</item>
+    </string-array><string name="clock_24_hours_format" translatable="false">kk:mm</string><string name="alarm_time_12_hours_format" translatable="false">h:mm <b><font face="sans-serif-condensed" size="14">a</font></b></string><string name="main_clock_12_hours_format" translatable="false">h:mm <b><font face="sans-serif-condensed" size="16">a</font></b></string><string name="settings">设置</string><string name="alarm_settings">闹钟设置</string><string name="auto_silence_title">闹铃时长</string><string name="auto_silence_summary">"<ns1:g id="MINUTES">%d</ns1:g> 分钟"</string><string name="auto_silence_never">"永不"</string><string-array name="auto_silence_entries">
+        <item>"5 分钟"</item>
+        <item>"10 分钟"</item>
+        <item>"15 分钟"</item>
+        <item>"20 分钟"</item>
+        <item>"25 分钟"</item>
+        <item>"30 分钟"</item>
+        <item>"永不"</item>
+    </string-array><string-array name="auto_silence_values" translatable="false">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>-1</item> 
+    </string-array><string name="snooze_duration_title">"暂停时长"</string><string name="volume_button_setting_title">"音量按钮"</string><string name="snooze_picker_label">"分钟"</string><plurals name="snooze_duration">
+        <item quantity="one">"1 分钟"</item>
+        <item quantity="other">"<ns1:g id="NUMBER">%d</ns1:g> 分钟"</item>
+    </plurals><string-array name="volume_button_setting_entries">
+        <item>"不进行任何操作"</item>
+        <item>"暂停"</item>
+        <item>"关闭"</item>
+    </string-array><string-array name="volume_button_setting_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array><string name="alarm_alert_predismiss_title">"预定的闹钟"</string><string name="alarm_alert_snooze_until">"将勿扰时段设置到 <ns1:g id="TIME">%s</ns1:g>"</string><string name="alarm_missed_title">"错过的闹钟"</string><string name="alarm_missed_text">"<ns1:g id="ALARM_TIME">%s</ns1:g> - <ns1:g id="ALARM_LABEL">%s</ns1:g>"</string><string name="alarm_alert_dismiss_text">"取消"</string><string name="alarm_alert_snooze_text">"稍后再响"</string><string name="description_direction_right">"向右滑动即可关闭"</string><string name="description_direction_left">"向左滑动即可设置勿扰时段"</string><string name="repeat_mode">重复模式</string><string name="select">选择</string><string name="action_clock_alarm">闹铃提醒</string><string name="snooze">小睡</string></file><file name="settings" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\xml\settings.xml" qualifiers="" type="xml"/><file name="activity_alarm_alert" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\activity_alarm_alert.xml" qualifiers="" type="layout"/><file name="alarm_alert_old" path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\res\layout\alarm_alert_old.xml" qualifiers="" type="layout"/></source><source path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\build\generated\res\rs\debug"/><source path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="TextTime"><attr format="string" name="format12Hour"/><attr format="string" name="format24Hour"/></declare-styleable><declare-styleable name="GlowPadView"><attr name="android:gravity"/><attr format="reference" name="targetDrawables"/><attr format="reference" name="targetDescriptions"/><attr format="reference" name="directionDescriptions"/><attr format="reference" name="handleDrawable"/><attr format="reference" name="outerRingDrawable"/><attr format="reference" name="pointDrawable"/><attr format="dimension" name="innerRadius"/><attr format="dimension" name="outerRadius"/><attr format="dimension" name="glowRadius"/><attr format="integer" name="vibrationDuration"/><attr format="dimension" name="snapMargin"/><attr format="integer" name="feedbackCount"/><attr format="boolean" name="alwaysTrackFinger"/></declare-styleable></configuration></mergedItems></merger>

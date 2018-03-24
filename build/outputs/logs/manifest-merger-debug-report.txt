@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:2:1-63:12
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\0cf7799a13deb5b15d4c6db10b1aee2e\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml
+		INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml
+		INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml
+		INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\0cf7799a13deb5b15d4c6db10b1aee2e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\0cf7799a13deb5b15d4c6db10b1aee2e\AndroidManifest.xml:21:5-23:54
+INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\0cf7799a13deb5b15d4c6db10b1aee2e\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml
+		INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml
+		INJECTED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:14:22-72
+application
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:16:5-61:19
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\0cf7799a13deb5b15d4c6db10b1aee2e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\0cf7799a13deb5b15d4c6db10b1aee2e\AndroidManifest.xml:25:5-20
+	android:icon
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:19:9-40
+provider#com.flyscale.alarms.provider.ClockProvider
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:20:9-23:20
+	android:authorities
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:21:19-60
+	android:exported
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:22:19-43
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:20:19-76
+activity#com.flyscale.alarms.MainActivity
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:24:9-32:20
+	android:screenOrientation
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:26:13-50
+	android:launchMode
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:27:8-39
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:25:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:30:27-74
+activity#com.flyscale.alarms.SettingsActivity
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:33:9-37:20
+	android:screenOrientation
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:36:13-49
+	android:theme
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:34:13-64
+activity#com.flyscale.alarms.alarms.AlarmActivity2
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:38:9-43:63
+	android:screenOrientation
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:40:13-50
+	android:launchMode
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:41:13-48
+	android:showOnLockScreen
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:42:13-44
+	android:theme
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:43:13-61
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:39:13-69
+service#com.flyscale.alarms.alarms.AlarmService
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:45:10-46:19
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:45:19-73
+receiver#com.flyscale.alarms.alarms.AlarmStateManager
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:47:9-52:20
+	android:exported
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:47:19-78
+intent-filter#com.hs.myclock.CHANGE_STATE
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:49:13-51:29
+action#com.hs.myclock.CHANGE_STATE
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:50:25-67
+receiver#com.flyscale.alarms.AlarmInitReceiver
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:53:9-60:20
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:53:20-72
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.LOCALE_CHANGED+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:54:11-59:28
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:55:14-75
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:55:22-73
+action#android.intent.action.TIME_SET
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:56:14-69
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:56:22-67
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:57:14-77
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:57:22-75
+action#android.intent.action.LOCALE_CHANGED
+ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:58:14-75
+	android:name
+		ADDED from D:\workingSpace\HsAlarmClock\FlyscaleAlarms\src\main\AndroidManifest.xml:58:22-73

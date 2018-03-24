@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/TextStyle"
+        android:text="@string/set_alarm_time"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="30px"
+        android:layout_marginTop="25px">
+
+        <TextView
+            android:id="@+id/hours_one"
+            android:layout_width="9px"
+            android:layout_height="wrap_content"
+            android:text="@string/zero"
+            android:maxLength="1"
+            style="@style/TextStyleTwo"/>
+        <TextView
+            android:id="@+id/hours_two"
+            android:layout_width="9px"
+            android:layout_height="wrap_content"
+            android:text="@string/zero"
+            android:maxLength="1"
+            style="@style/TextStyleTwo"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextStyleTwo"
+            android:text="@string/h"/>
+        <TextView
+            android:id="@+id/minutes_one"
+            android:layout_width="9px"
+            android:layout_height="wrap_content"
+            android:text="@string/zero"
+            android:maxLength="1"
+            style="@style/TextStyleTwo"/>
+        <TextView
+            android:id="@+id/minutes_two"
+            android:layout_width="9px"
+            android:layout_height="wrap_content"
+            android:text="@string/zero"
+            android:maxLength="1"
+            style="@style/TextStyleTwo"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextStyleTwo"
+            android:text="@string/m"/>
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="14px"
+        android:background="#fff"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:id="@+id/ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/confirm"
+            android:textColor="#000"
+            android:paddingLeft="2px"
+            android:layout_alignParentLeft="true"
+            android:textSize="@dimen/textsize"
+            />
+
+        <TextView
+            android:id="@+id/no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="@string/back"
+            android:textColor="#000"
+            android:background="@null"
+            android:textSize="@dimen/textsize"/>
+    </RelativeLayout>
+
+</RelativeLayout>

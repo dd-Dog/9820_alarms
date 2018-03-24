@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include layout="@layout/title"/>
+
+    <ListView
+        android:listSelector="@drawable/list_bg_selector"
+        android:layout_width="match_parent"
+        android:id="@+id/alarms_list"
+        android:divider="@null"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+    </ListView>
+    <TextView
+        android:id="@+id/alarms_empty_view"
+        android:textSize="@dimen/textsize"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/no_alarms"
+        android:textColor="@color/black"
+        android:visibility="gone"/>
+
+
+    <include layout="@layout/function_bar"/>
+</LinearLayout>

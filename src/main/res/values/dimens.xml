@@ -1,0 +1,34 @@
+<resources>
+	
+    
+    <dimen name="medium_font_size">60dp</dimen>
+    <dimen name="body_font_size">18sp</dimen>
+    <dimen name="button_font_size">24sp</dimen>
+    <dimen name="dialog_button_font_size">14sp</dimen>
+    <dimen name="footer_button_size">56dp</dimen>
+    <dimen name="footer_button_layout_margin">16dp</dimen>
+    
+    <!-- fragment --> 
+    <dimen name="alarm_time_font_size">48sp</dimen> 
+    <dimen name="alarm_label_size">14sp</dimen>
+    
+    <dimen name="collapse_expand_height">48dp</dimen>
+    <dimen name="button_footer_height">88dip</dimen>
+
+
+
+    <dimen name="textsize">16sp</dimen>
+    <dimen name="function_bar_height">16px</dimen>
+    <dimen name="function_bar_textsize">12px</dimen>
+    <dimen name="item_height">16px</dimen>
+    <dimen name="linespacing">0px</dimen>
+    <item name="spacingMul" type="dimen" format="float">1.0</item>
+    
+    <!-- settings -->
+    <dimen name="actionbar_title_font_size">22sp</dimen>
+    
+     <!-- alarm alert -->
+    <dimen name="header_font_size">24sp</dimen>
+    <dimen name="bottom_text_size">16sp</dimen>
+    
+</resources>

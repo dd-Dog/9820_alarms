@@ -1,0 +1,4 @@
+#Sat Mar 24 14:42:13 GMT+08:00 2018
+base.0=D\:\\workingSpace\\HsAlarmClock\\FlyscaleAlarms\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\workingSpace\\HsAlarmClock\\FlyscaleAlarms\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
